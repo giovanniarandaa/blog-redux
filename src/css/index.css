@@ -42,3 +42,13 @@ body {
 li {
   margin: 15px 0px
 }
+
+.contenedor_tareas {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+
+.m-left {
+  margin-left: 20px;
+}
